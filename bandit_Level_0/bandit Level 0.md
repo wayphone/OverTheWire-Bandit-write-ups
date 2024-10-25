@@ -1,7 +1,7 @@
 # OverTheWire-bandit Level 0 Writeups
 
 ## Method 1: 
-Download bandit_level_0.py and run this file.
+Download bandit_level_0.py and run the file.
 ## Method 2:
 ### 1. using ssh connecting server
     ssh bandit0@bandit.labs.overthewire.org -p 2220
