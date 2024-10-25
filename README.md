@@ -1,3 +1,3 @@
-bandit Level 0 to level 1
-Level Goal:
-The password for the next level is stored in a file called readme located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
+The goal of the OverTheWire games is to provide educational resources to people willing to learn
+topics on cybersecurity. The OverTheWire community hosts these resources free of charge for players
+to use and learn from. However, usage of these resources comes with a few simple rules.
