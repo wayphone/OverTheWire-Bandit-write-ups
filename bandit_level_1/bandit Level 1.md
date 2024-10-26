@@ -1,6 +1,10 @@
 # OverTheWire-bandit Level 1 Writeups
 ## Method 1: 
 Download bandit_level_1.py and run the file.
+#### Output
+    -
+
+    263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 ## Method 2:
 ### 1. using ssh connecting server
     ssh bandit1@bandit.labs.overthewire.org -p 2220

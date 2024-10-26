@@ -2,6 +2,10 @@
 
 ## Method 1: 
 Download bandit_level_0.py and run the file.
+#### Output
+    readme
+
+    The password you are looking for is: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 ## Method 2:
 ### 1. using ssh connecting server
     ssh bandit0@bandit.labs.overthewire.org -p 2220
